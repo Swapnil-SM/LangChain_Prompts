@@ -1,0 +1,9 @@
+#ideally it is stored in a database but as of now 
+
+HumanMessage(content="I want to request a refund for my order #12345.")
+
+AIMessage(content="Your refund request for order #12345 has been initiated. It will be processed in 3-5 business days.")
+Human: where is my refund reached now
+Assistant:  [] AIMessage(content="I'd be happy to help you check the status of your refund. Please allow up to 24 hours for updates to reflect in our system. You can check the status of your refund by logging into your account on our website or contacting our customer support team.")[
+
+This response acknowledges the customer's question and provides them with instructions on how to check the status of their refund. It also sets an expectation for when they can expect the information to be available. By suggesting they check their account online, or contact customer support, it empowers the customer to take action.
