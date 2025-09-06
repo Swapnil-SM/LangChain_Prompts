@@ -46,7 +46,7 @@
 
 
 # if st.button('Summarize'):
-#     chain = template | model
+#     chain = template | model // here we do to call two things in one go with the help of chains..first call template then model
 #     result = chain.invoke({
 #         'paper_input':paper_input,
 #         'style_input':style_input,
